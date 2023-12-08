@@ -1,4 +1,4 @@
-module github.com/r3nic1e/traefik-plugin-add-response-header
+module dmarkey/traefik-lowercase-response-headers 
 
 go 1.19
 
