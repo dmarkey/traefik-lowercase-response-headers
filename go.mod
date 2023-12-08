@@ -1,4 +1,4 @@
-module dmarkey/traefik-lowercase-response-headers 
+module github.com/dmarkey/traefik-lowercase-response-headers 
 
 go 1.19
 
