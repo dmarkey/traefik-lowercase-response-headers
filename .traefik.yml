@@ -1,4 +1,4 @@
-displayName: Add response header
-summary: Plugin that copies request header value into a response header.
+displayName: Lowercase Response Headers
+summary: Plugin that ensures all response headers are lowercase
 type: middleware
 import: dmarkey/traefik-lowercase-response-headers
